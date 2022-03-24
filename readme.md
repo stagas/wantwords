@@ -26,6 +26,6 @@ $ wantwords pink --explain
 
 ## Credits
 
-This basically does a request to [WantWords](https://wantwords.thunlp.org/) (not affiliated).
+This basically does a request to [WantWords](https://wantwords.net/) (not affiliated).
 
 ## License MIT
