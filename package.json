@@ -1,6 +1,6 @@
 {
   "name": "wantwords",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli that searches for synonyms and definitions from WantWords",
   "bin": {
     "wantwords": "cli.js"
@@ -10,7 +10,9 @@
     "url": "git+https://git@github.com:stagas/wantwords.git"
   },
   "scripts": {
-    "test": "echo ok"
+    "test": "echo ok",
+    "prepack": "echo ok",
+    "prepush": "echo ok"
   },
   "keywords": [
     "words",
